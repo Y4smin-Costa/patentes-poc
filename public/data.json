@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "titulo": "Sistema de purificação de água",
+      "autor": "João Silva",
+      "area": "Engenharia Ambiental",
+      "ano": 2021
+    },
+    {
+      "id": 2,
+      "titulo": "Dispositivo de segurança veicular",
+      "autor": "Maria Oliveira",
+      "area": "Engenharia Mecânica",
+      "ano": 2022
+    },
+    {
+      "id": 3,
+      "titulo": "Método de compressão de dados",
+      "autor": "Carlos Souza",
+      "area": "Computação",
+      "ano": 2020
+    },
+
+      {
+        "id": 4,
+        "titulo": "Sensor inteligente para monitoramento de solos",
+        "autor": "Ana Martins",
+        "area": "Engenharia Ambiental",
+        "ano": 2022
+      },
+      {
+        "id": 5,
+        "titulo": "Algoritmo para detecção de fraudes financeiras",
+        "autor": "Lucas Fernandes",
+        "area": "Computação",
+        "ano": 2023
+      },
+      {
+        "id": 6,
+        "titulo": "Sistema de ventilação com eficiência energética",
+        "autor": "Juliana Costa",
+        "area": "Engenharia Mecânica",
+        "ano": 2021
+      },
+      {
+        "id": 7,
+        "titulo": "Aplicativo de agendamento médico com IA",
+        "autor": "Felipe Andrade",
+        "area": "Computação",
+        "ano": 2023
+      },
+      {
+        "id": 8,
+        "titulo": "Composto biológico para tratamento de águas residuais",
+        "autor": "Renata Lima",
+        "area": "Engenharia Ambiental",
+        "ano": 2020
+      },
+      {
+        "id": 9,
+        "titulo": "Sistema hidráulico de freios regenerativos",
+        "autor": "Pedro Rocha",
+        "area": "Engenharia Mecânica",
+        "ano": 2023
+      },
+      {
+        "id": 10,
+        "titulo": "Framework de testes automatizados para APIs REST",
+        "autor": "Bruna Nascimento",
+        "area": "Computação",
+        "ano": 2022
+      }
+  ]
+  
